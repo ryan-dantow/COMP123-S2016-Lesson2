@@ -43,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TestClassAttribute.cs" />
-    <Compile Include="TestMethodAttribute.cs" />
     <Compile Include="UnitTestForLesson2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
